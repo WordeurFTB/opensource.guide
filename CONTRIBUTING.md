@@ -47,7 +47,7 @@ If you're writing content, see the [style guide](./docs/styleguide.md) to help y
 
 ## Setting up your environment
 
-This site is powered by [Jekyll](https://jekyllrb.com/). Running it on your local machine requires a working [Ruby](https://www.ruby-lang.org/en/) installation with [Bundler](https://bundler.io/).
+This site is powered by [Jekyll](https://vuejs.org/). While running it on your local machine it will use [Plyr](https://plyr.io/) as the media player.
 
 Once you have that set up, run:
 
